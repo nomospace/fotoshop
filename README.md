@@ -1,35 +1,60 @@
-# Fotoshop
-A simple image processing tool based on html5.
+# Fotoshop 🎨
 
+> 在线图片处理工具 - 基于 HTML5 Canvas
 
-## Resources  
-[http://editor.pixastic.com/](http://editor.pixastic.com/ "pixastic")  
-[http://pixlr.com/editor/](http://pixlr.com/editor/ "pixlr")  
-[http://xiuxiu.web.meitu.com/main.html](http://xiuxiu.web.meitu.com/main.html "meitu")  
-[http://alloyteam.github.com/AlloyPhoto/alloyphoto.html](http://alloyteam.github.com/AlloyPhoto/alloyphoto.html "AlloyPhoto")  
-[http://www.haozhaopian.com/flash/](http://www.haozhaopian.com/flash/ "haozhaopian")
+## 功能特性
 
+### 📊 基础调整
+- 亮度调节
+- 对比度调节
+- 饱和度调节
+- 色相旋转
+- 模糊效果
 
-## License 
-(The MIT License)
+### 🎭 滤镜效果
+- 黑白
+- 复古（复古棕褐色）
+- 反色
+- 怀旧
+- 冷色
+- 暖色
+- 戏剧
+- 褪色
 
-Copyright (c) 2011-2013 nomospace
+### ✨ 特效工具
+- 马赛克
+- 锐化
+- 浮雕
+- 边缘检测
+- 噪点
+- 像素化
 
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+### 🔄 变换
+- 左右旋转 90°
+- 水平/垂直翻转
 
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
+### 📜 操作历史
+- 撤销/重做
+- 重置为原图
 
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+## 使用方法
+
+1. 点击上传区域或拖拽图片
+2. 使用左侧工具栏调整图片
+3. 点击「下载图片」保存
+
+## 技术栈
+
+- HTML5 Canvas
+- 原生 JavaScript
+- CSS3
+
+## 访问地址
+
+- **在线访问**: http://47.102.199.24:3003/
+
+## License
+
+MIT License
+
+Copyright (c) 2011-2026 nomospace
